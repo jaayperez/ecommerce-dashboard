@@ -4,8 +4,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "fusioncharts": "^3.14.1",
+    "fusionmaps": "^3.14.1",
+    "materialize-css": "^1.0.0-rc.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
+    "react-dropdown": "^1.6.4",
+    "react-fusioncharts": "^3.0.1",
     "react-scripts": "3.2.0"
   },
   "scripts": {
