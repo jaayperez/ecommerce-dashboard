@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.5.1",
     "fusioncharts": "^3.14.1",
     "fusionmaps": "^3.14.1",
     "react": "^16.11.0",
