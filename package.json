@@ -6,7 +6,6 @@
   "dependencies": {
     "fusioncharts": "^3.14.1",
     "fusionmaps": "^3.14.1",
-    "materialize-css": "^1.0.0-rc.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-dropdown": "^1.6.4",
