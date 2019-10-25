@@ -35,14 +35,14 @@ export default function Deposits() {
       <Paper className={fixedHeightPaper}>
       <Title>Total Revenue</Title>
       <Typography component="p" variant="h4">
-        $3,024.00
+        $57,281.80
       </Typography>
       <Typography color="textSecondary" className={classes.depositContext}>
-        on 15 March, 2019
+        Current Month
       </Typography>
       <div>
         <Link color="primary" href="javascript:;">
-          View balance
+          View Balance
         </Link>
       </div>
       </Paper>
@@ -55,11 +55,10 @@ export default function Deposits() {
         $28,449.00
       </Typography>
       <Typography color="textSecondary" className={classes.depositContext}>
-        on 15 March, 2019
       </Typography>
       <div>
         <Link color="primary" href="javascript:;">
-          View balance
+          View Balance
         </Link>
       </div>
       </Paper>
@@ -72,11 +71,10 @@ export default function Deposits() {
         $15,392.30
       </Typography>
       <Typography color="textSecondary" className={classes.depositContext}>
-        on 15 March, 2019
       </Typography>
       <div>
         <Link color="primary" href="javascript:;">
-          View balance
+          View Balance
         </Link>
       </div>
       </Paper>
@@ -89,11 +87,10 @@ export default function Deposits() {
         $13,440.50
       </Typography>
       <Typography color="textSecondary" className={classes.depositContext}>
-        on 15 March, 2019
       </Typography>
       <div>
         <Link color="primary" href="javascript:;">
-          View balance
+          View Balance
         </Link>
       </div>
       </Paper>

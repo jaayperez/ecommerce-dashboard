@@ -22,7 +22,7 @@ const data = [
 export default function Chart() {
   return (
     <React.Fragment>
-      <Title>Today</Title>
+      <Title>Today's Summary</Title>
       <ResponsiveContainer>
         <LineChart
           data={data}
