@@ -32,12 +32,9 @@ import { createMuiTheme } from '@material-ui/core/styles';
 function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
-      {'Copyright © '}
-      <Link color="inherit" href="https://material-ui.com/">
-        Your Dashboard
-      </Link>{' '}
-      {new Date().getFullYear()}
-      {'.'}
+      {'Copyright ©'} {new Date().getFullYear()} <Link color="inherit" href="https://jaayperez.github.io/ecommerce-dashboard">
+        Dashboard
+      </Link>
     </Typography>
   );
 }
@@ -161,14 +158,13 @@ export default function Dashboard() {
             <MenuIcon />
           </IconButton>
           <Typography component="h1" variant="h6" color="inherit" noWrap className={classes.title}>
-            Your Dashboard
+            Overview
           </Typography>
           <IconButton color="inherit">
             <Badge badgeContent={4} color="secondary">
               <NotificationsIcon />
             </Badge>
           </IconButton>
-
         </Toolbar>
       </AppBar>
 
@@ -197,14 +193,15 @@ export default function Dashboard() {
           <Deposits />
 
             {/* Chart */}
-            <Grid item xs={12} md={8} lg={9}>
+            <Grid item xs={12} md={8} lg={6}>
               <Paper className={fixedHeightPaper}>
                 <Chart />
               </Paper>
             </Grid>
 
-            {/* Recent Orders */}
-            <Grid item xs={12}>
+
+            {/* New Orders */}
+            <Grid item xs={12} md={4} lg={6}>
               <Paper className={classes.paper}>
                 <Orders />
               </Paper>
