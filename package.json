@@ -10,9 +10,9 @@
     "fusionmaps": "^3.15.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-dropdown": "^1.7.0",
+    "react-dropdown": "^1.9.0",
     "react-fusioncharts": "^3.1.2",
-    "react-scripts": "^3.4.3",
+    "react-scripts": "^3.4.1",
     "recharts": "^1.8.5"
   },
   "scripts": {
