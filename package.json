@@ -6,7 +6,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.9",
     "@material-ui/icons": "^4.9.1",
-    "fusioncharts": "^3.15.3",
+    "fusioncharts": "^3.16.0",
     "fusionmaps": "^3.15.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
