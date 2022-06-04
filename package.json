@@ -12,7 +12,7 @@
     "react-dom": "^17.0.2",
     "react-dropdown": "^1.7.0",
     "react-fusioncharts": "^3.1.2",
-    "react-scripts": "^5.0.0",
+    "react-scripts": "^5.0.1",
     "recharts": "^2.1.9",
     "snyk": "^1.685.0"
   },
