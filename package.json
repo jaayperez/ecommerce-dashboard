@@ -14,7 +14,7 @@
     "react-fusioncharts": "^4.0.0",
     "react-scripts": "^5.0.0",
     "recharts": "^2.1.13",
-    "snyk": "^1.685.0"
+    "snyk": "^1.996.0"
   },
   "scripts": {
     "start": "react-scripts start",
